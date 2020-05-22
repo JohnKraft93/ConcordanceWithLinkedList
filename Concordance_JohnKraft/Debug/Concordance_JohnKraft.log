@@ -1,6 +1,0 @@
-﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(452,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Concordance_JohnKraft.vcxproj).  This can lead to incorrect clean and rebuild behavior.
-  Concordance_JohnKraft.cpp
-  LinkedListWords.cpp
-  Generating Code...
-C:\Users\storm\source\repos\Concordance_JohnKraft\Concordance_JohnKraft\Concordance_JohnKraft.cpp(64,20): warning C4018: '<': signed/unsigned mismatch
-  Concordance_JohnKraft.vcxproj -> C:\Users\storm\source\repos\Concordance_JohnKraft\Debug\280_Concordance_JohnKraft.exe
